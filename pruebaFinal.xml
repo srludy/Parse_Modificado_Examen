@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<biblioteca>
+<libro>
+<titulo anyo="1992">Metas</titulo>
+<autor>
+<nombre>a</nombre>
+<nombre>b</nombre>
+<nombre>c</nombre>
+<nombre>d</nombre>
+<nombre>e</nombre>
+</autor>
+<editor>anaya</editor>
+<paginas>23</paginas>
+</libro>
+<libro>
+<titulo anyo="2008">Introduction to Linux</titulo>
+<autor>
+<nombre>Machtelt</nombre>
+<nombre>Garrels</nombre>
+<nombre>Jose Vicente Mari Camarasa</nombre>
+</autor>
+<editor>O'Reilly</editor>
+<paginas>256</paginas>
+</libro>
+<libro>
+<titulo anyo="1991">El lenguaje de programación C</titulo>
+<autor>
+<nombre>Kernighan</nombre>
+<nombre>Ritchie</nombre>
+</autor>
+<editor>Prentice Hall</editor>
+<paginas>294</paginas>
+</libro>
+</biblioteca>
